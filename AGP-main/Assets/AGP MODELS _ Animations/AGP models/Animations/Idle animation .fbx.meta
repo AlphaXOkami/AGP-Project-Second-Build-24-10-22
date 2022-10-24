@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: cec60fe65e9e5e9428b652eca5e09afc
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -6822281347413259360
+    second: 'Idle animation '
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Idle animation (Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: Idle animation (Clone)
+      position: {x: -0, y: 0.037507627, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.9377642, y: 6.8430705, z: 4.1259875}
+    - name: transform9
+      parentName: pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere1
+      parentName: Idle animation (Clone)
+      position: {x: -0, y: 0.06882653, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.010118, y: 1.8540914, z: 3.6904979}
+    - name: transform5
+      parentName: pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube2
+      parentName: Idle animation (Clone)
+      position: {x: -0.0026243788, y: 0.054914434, z: -0.03815655}
+      rotation: {x: -0.2287244, y: 0, z: -0, w: 0.9734912}
+      scale: {x: 1, y: 1, z: 6.6474934}
+    - name: transform10
+      parentName: pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube3
+      parentName: Idle animation (Clone)
+      position: {x: -0.0027686253, y: 0.052815124, z: 0.044529594}
+      rotation: {x: 0.18543427, y: 0.047225352, z: 0.053321477, w: 0.9800718}
+      scale: {x: 1, y: 1, z: 6.6474934}
+    - name: transform7
+      parentName: pCube3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: Idle animation (Clone)
+      position: {x: -0.000015026033, y: 0.045101203, z: 0.062888056}
+      rotation: {x: 0.84308946, y: 0.040657703, z: -0.025829695, w: 0.53561175}
+      scale: {x: 0.9067042, y: 1.1897213, z: 0.8887678}
+    - name: transform8
+      parentName: pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: Idle animation (Clone)
+      position: {x: -0.0023712593, y: 0.040206227, z: -0.06724664}
+      rotation: {x: -0.8459568, y: 0, z: -0, w: 0.5332514}
+      scale: {x: 0.31802556, y: 0.31802556, z: 0.31802556}
+    - name: transform11
+      parentName: pCylinder2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder3
+      parentName: Idle animation (Clone)
+      position: {x: -0.0021533405, y: 0.0410103, z: -0.06537621}
+      rotation: {x: -0.84587735, y: 0, z: -0, w: 0.53337747}
+      scale: {x: 0.24413094, y: 1.1566525, z: 0.2625084}
+    - name: transform6
+      parentName: pCylinder3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube4
+      parentName: Idle animation (Clone)
+      position: {x: -0.0035276478, y: 0.036847692, z: -0.086762585}
+      rotation: {x: -0.13706768, y: 0.033224594, z: -0.004600048, w: 0.98999363}
+      scale: {x: 0.16417685, y: 1, z: 1}
+    - name: transform3
+      parentName: pCube4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube5
+      parentName: Idle animation (Clone)
+      position: {x: 0.0052674524, y: 0.036378685, z: -0.08695044}
+      rotation: {x: -0.13713011, y: 0.01451793, z: -0.0020100523, w: 0.9904446}
+      scale: {x: 0.16417685, y: 1, z: 1}
+    - name: transform1
+      parentName: pCube5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube6
+      parentName: Idle animation (Clone)
+      position: {x: 0.0005747236, y: 0.03737815, z: -0.082434356}
+      rotation: {x: -0.09433934, y: 0.7189652, z: -0.099542946, w: 0.6813812}
+      scale: {x: 0.16417685, y: 1, z: 0.8072498}
+    - name: transform2
+      parentName: pCube6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube7
+      parentName: Idle animation (Clone)
+      position: {x: -0.001010795, y: 0.034252737, z: -0.079575665}
+      rotation: {x: -0.12870102, y: -0.022972783, z: 0.025016943, w: 0.9911017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: pCube7
+      position: {x: -0.0007763106, y: -0.03661616, z: 0.08661029}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder4
+      parentName: Idle animation (Clone)
+      position: {x: -0, y: 0.045329858, z: 0.0076634292}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.64059675, y: 0.64059675, z: 0.64059675}
+    - name: transform13
+      parentName: pCylinder4
+      position: {x: -0, y: -0.045329858, z: -0.0076634292}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder5
+      parentName: Idle animation (Clone)
+      position: {x: -0.0011749155, y: 0.01714642, z: 0.0020521947}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.74441916, y: 0.1892063, z: 0.74441916}
+    - name: transform12
+      parentName: pCylinder5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder6
+      parentName: Idle animation (Clone)
+      position: {x: -0, y: 0.040897645, z: 0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform14
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform20
+      parentName: polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform21
+      parentName: polySurface2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 8.659411e-17, y: 0.71126056, z: -8.659411e-17, w: 0.70292854}
+      scale: {x: 0.8557934, y: 1, z: 0.80262464}
+    - name: transform22
+      parentName: polySurface3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform23
+      parentName: polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5 1
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform18
+      parentName: polySurface5 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform24
+      parentName: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7 1
+      parentName: pCylinder6
+      position: {x: 0.00023591319, y: -0.029732894, z: -0.009276193}
+      rotation: {x: 0, y: -0.0075697, z: -0, w: 0.9999714}
+      scale: {x: 0.83736134, y: 0.83736134, z: 0.83736134}
+    - name: transform19
+      parentName: polySurface7 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: polySurface8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10 1
+      parentName: pCylinder6
+      position: {x: -0, y: -0.040897645, z: -0.0069759064}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform17
+      parentName: polySurface10 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: Idle animation (Clone)
+      position: {x: -0.00053554773, y: 0.03819214, z: -0.0482625}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform25
+      parentName: polySurface10
+      position: {x: 0.00053554773, y: -0.03819214, z: 0.0482625}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder7
+      parentName: Idle animation (Clone)
+      position: {x: -0.009065804, y: 0.03446295, z: 0}
+      rotation: {x: -0.02487203, y: -0.051151894, z: 0.9962058, w: 0.06587024}
+      scale: {x: 0.4918755, y: 0.75612736, z: 0.4918755}
+    - name: transform26
+      parentName: pCylinder7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: Idle animation (Clone)
+      position: {x: 0.028812937, y: 0.03498479, z: 0.012461045}
+      rotation: {x: 0.024397803, y: 0.7036084, z: -0.024186444, w: 0.70975703}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: Idle animation (Clone)
+      position: {x: -0.0030479755, y: 0.03238465, z: -0.013380904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform27
+      parentName: polySurface7
+      position: {x: 0.0030479755, y: -0.045036186, z: 0.013380904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: Idle animation (Clone)
+      position: {x: 0.011931271, y: 0.036772992, z: -0.013591206}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
